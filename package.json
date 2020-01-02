@@ -1,0 +1,15 @@
+{
+  "name": "practise-typescript",
+  "version": "1.0.0",
+  "description": "Learning TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Jovanović",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
+}
